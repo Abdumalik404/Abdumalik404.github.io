@@ -34,7 +34,7 @@ main {
 
 .item:hover {
     opacity: 1;
-    transform: scale(1.1) rotate(360deg);
+    transform: scale(1.1) rotate(10deg);
     z-index: 10;
     box-shadow: 0 0 5px blue;
     filter: blur(0);
