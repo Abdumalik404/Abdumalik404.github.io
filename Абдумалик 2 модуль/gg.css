@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+.form_item {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input {
+    width: 25%;
+    height: 30px;
+}
+select {
+    width: 10%;
+    height: 20px;
+}
+textarea {
+    width: 25%;
+    height: 110px;
+}
+body {
+    background-color: antiquewhite;
+}
+
+
+
+
